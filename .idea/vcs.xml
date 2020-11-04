@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../laravel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../alaa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bian" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dallal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../javascript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../souq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../stockNet" vcs="Git" />
+    <mapping directory="$USER_HOME$/Downloads/hdana" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../alaa/.idea/3laa.iml" filepath="$PROJECT_DIR$/../alaa/.idea/3laa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mazad/.idea/NewMazad.iml" filepath="$PROJECT_DIR$/../mazad/.idea/NewMazad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bian/.idea/hPlus.iml" filepath="$PROJECT_DIR$/../bian/.idea/hPlus.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/hdana/.idea/hdana.iml" filepath="$USER_HOME$/Downloads/hdana/.idea/hdana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ebel/.idea/hraj-plus.iml" filepath="$PROJECT_DIR$/../ebel/.idea/hraj-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javascript/.idea/javascript.iml" filepath="$PROJECT_DIR$/../javascript/.idea/javascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../laravel/.idea/laravel.iml" filepath="$PROJECT_DIR$/../../laravel/.idea/laravel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../stockNet/.idea/stock-net.iml" filepath="$PROJECT_DIR$/../../stockNet/.idea/stock-net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yum-yum.iml" filepath="$PROJECT_DIR$/.idea/yum-yum.iml" />
+    </modules>
+  </component>
+</project>

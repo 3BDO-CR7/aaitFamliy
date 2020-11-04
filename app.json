@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "اسر آوامر",
+    "slug": "aaitFamliy",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "3.4.4",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.shabaka.aaitFamliy",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location",
+          "fetch"
+        ],
+        "NSCameraUsageDescription": "We need this permession to add photos to your ads.",
+        "NSLocationWhenInUseUsageDescription": "app need location to show the nearest ads of you.",
+        "NSLocationAlwaysUsageDescription": "app need location to show the nearest ads of you.",
+        "NSMotionUsageDescription": "app need location to show the nearest ads of you.",
+        "NSPhotoLibraryAddUsageDescription": "We need this permession to add photos to your ads.",
+        "NSPhotoLibraryUsageDescription": "We need this permession to add photos to your ads"
+      }
+    },
+    "android": {
+      "package": "com.shabaka.aaitFamliy",
+      "versionCode": 26,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBDqUJp5NG7f4wHZIThgvqYdd7r9Lq5PcU"
+        }
+      }
+    }
+  }
+}

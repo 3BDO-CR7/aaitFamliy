@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Funtime">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ebel" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="aladdinads">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ebel" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bian">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ebel" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ebel">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ebel" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mazad">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ebel" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="plus">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../javascript" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pro3">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ebel" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ebel" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

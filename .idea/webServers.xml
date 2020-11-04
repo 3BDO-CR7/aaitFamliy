@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01e32a7b-d268-4d2c-9385-3102070aa835" name="ebel" url="http://pocamels.aait-sa.com/">
+        <fileTransfer host="pocamels.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f7fa5d1c-424d-481b-8e04-142b90942190" name="mazad" url="http://mazadaltamiuz.aait-sa.com">
+        <fileTransfer host="mazadaltamiuz.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d606392f-2265-4eb6-bdba-e9d660a8de3a" name="aladdinads" url="http://alaaelden.aait-sa.com">
+        <fileTransfer host="alaaelden.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="41643852-8d4a-46ed-a58d-9e0292af7303" name="bian" url="http://bian.aait-sa.com/">
+        <fileTransfer host="bian.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f2ac9c05-4426-4452-a120-6a2af52b664a" name="root" url="http://195.201.94.112">
+        <fileTransfer host="195.201.94.112" port="22" rootFolder="/var/www/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9fffb0fd-78b8-475d-83ef-b54b4e6e5b1c" name="plus" url="http://plus.aait-sa.com/">
+        <fileTransfer host="plus.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+export default {	yellow : '#fec105',	orange : '#ffdc1c',	transparent: 'transparent',	red : '#bf4949',	green : '#2cbf3d',	gray : '#929292',	lightGray : '#f5f5f5',	boldGray:'#898989',	grayBtn:'#ebebeb',	placeholderColor: '#c8c8c8',	black: '#222222',	blue: '#2AC0EB',	greens : '#8BDD28',	url  : 'https://aaitdelivery.4hoste.com:30021/user/'}
