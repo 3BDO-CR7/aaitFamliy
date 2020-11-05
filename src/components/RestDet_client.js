@@ -372,7 +372,6 @@ class RestDet_client extends Component {
 
                 { this.renderLoader() }
 
-
                 {/*<Header style={[styles.header , {backgroundColor: (this.state.data.length !== 0) ? 'transparent' : '#222222' , paddingLeft:0 , paddingRight:0} ]} noShadow>*/}
                 {/*    <Animated.View style={[styles.animatedHeader ,{ backgroundColor: backgroundColor}]}>*/}
                 {/*        <View style={styles.directionRow}>*/}

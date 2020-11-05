@@ -32,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Home_client.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="497" column="94" lean-forward="true" selection-start-line="497" selection-start-column="94" selection-end-line="497" selection-end-column="94" />
+            <state relative-caret-position="422">
+              <caret line="490" column="49" selection-start-line="490" selection-end-line="491" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
                 <element signature="n#!!block;n#componentDidMount#0;n#Home_client#0" />
@@ -45,6 +45,7 @@
                 <element signature="n#!!block;n#logout#0;n#Home_client#0" />
                 <element signature="n#!!block;n#onFocus#0;n#Home_client#0" />
                 <element signature="n#!!block;n#renderLoader#0;n#Home_client#0" />
+                <element signature="e#20179#24423#0" />
               </folding>
             </state>
           </provider>
@@ -53,11 +54,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/RestDet_client.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="534" column="67" selection-start-line="534" selection-start-column="67" selection-end-line="534" selection-end-column="67" />
+            <state relative-caret-position="125">
+              <caret line="359" lean-forward="true" selection-start-line="359" selection-end-line="359" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
-                <element signature="n#!!block;n#renderLoader#0;n#RestDet_client#0" />
+                <element signature="e#6124#7367#0" />
                 <element signature="n#!!block;n#setAnimate#0;n#RestDet_client#0" />
                 <element signature="n#!!block;n#headerScrollingAnimation#0;n#RestDet_client#0" />
                 <element signature="n#!!block;n#activeInput#0;n#RestDet_client#0" />
@@ -66,15 +67,6 @@
                 <element signature="n#!!block;n#make_special#0;n#RestDet_client#0" />
                 <element signature="n#!!block;n#clickFav#0;n#RestDet_client#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/consts/colors.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -128,8 +120,6 @@
         <option value="$PROJECT_DIR$/src/routes/DrawerCustomization_client.js" />
         <option value="$PROJECT_DIR$/src/components/FavoriteChef.js" />
         <option value="$PROJECT_DIR$/src/components/Buy_with_visa.js" />
-        <option value="$PROJECT_DIR$/locale/ar.js" />
-        <option value="$PROJECT_DIR$/locale/en.js" />
         <option value="$PROJECT_DIR$/ReactotronConfig.js" />
         <option value="$PROJECT_DIR$/src/components/AddRate_client.js" />
         <option value="$PROJECT_DIR$/src/components/Complaints_client.js" />
@@ -172,13 +162,15 @@
         <option value="$PROJECT_DIR$/App.js" />
         <option value="$PROJECT_DIR$/src/components/Language_client.js" />
         <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/src/consts/colors.js" />
+        <option value="$PROJECT_DIR$/locale/ar.js" />
+        <option value="$PROJECT_DIR$/locale/en.js" />
         <option value="$PROJECT_DIR$/src/components/Home_client.js" />
         <option value="$PROJECT_DIR$/src/components/RestDet_client.js" />
-        <option value="$PROJECT_DIR$/src/consts/colors.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1092" />
     <option name="height" value="809" />
@@ -189,6 +181,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,7 +210,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,14 +304,15 @@
       <workItem from="1603698603289" duration="3607000" />
       <workItem from="1603782837175" duration="919000" />
       <workItem from="1604492953539" duration="2172000" />
+      <workItem from="1604574481870" duration="2325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="411669000" />
+    <option name="totallyTimeSpent" value="413994000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1092" height="809" extended-state="0" />
+    <frame x="0" y="23" width="1092" height="809" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972299" visible="true" weight="0.25274727" />
@@ -352,20 +345,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/MyOrders_client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/MyOrders_delegate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Notification_client.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -635,16 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="406" column="38" selection-start-line="406" selection-start-column="38" selection-end-line="406" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -693,13 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/locale/en.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="115" column="37" selection-start-line="115" selection-start-column="36" selection-end-line="115" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -775,29 +737,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home_client.js">
+    <entry file="file://$PROJECT_DIR$/src/consts/colors.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="497" column="94" lean-forward="true" selection-start-line="497" selection-start-column="94" selection-end-line="497" selection-end-column="94" />
+        <state relative-caret-position="105">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="458" column="4" selection-start-line="458" selection-start-column="4" selection-end-line="458" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/ar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="294" column="35" lean-forward="true" selection-start-line="294" selection-start-column="35" selection-end-line="295" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/en.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="293" column="10" selection-start-line="293" selection-start-column="5" selection-end-line="293" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="152" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-            <element signature="n#!!block;n#componentDidMount#0;n#Home_client#0" />
-            <element signature="n#!!block;n#handleNotification#0;n#Home_client#0" />
-            <element signature="n#!!block;n#check#0;n#Home_client#0" />
-            <element signature="n#!!block;n#logout#0;n#Home_client#0" />
-            <element signature="n#!!block;n#onFocus#0;n#Home_client#0" />
-            <element signature="n#!!block;n#renderLoader#0;n#Home_client#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/RestDet_client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="534" column="67" selection-start-line="534" selection-start-column="67" selection-end-line="534" selection-end-column="67" />
+        <state relative-caret-position="125">
+          <caret line="359" lean-forward="true" selection-start-line="359" selection-end-line="359" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-            <element signature="n#!!block;n#renderLoader#0;n#RestDet_client#0" />
+            <element signature="e#6124#7367#0" />
             <element signature="n#!!block;n#setAnimate#0;n#RestDet_client#0" />
             <element signature="n#!!block;n#headerScrollingAnimation#0;n#RestDet_client#0" />
             <element signature="n#!!block;n#activeInput#0;n#RestDet_client#0" />
@@ -809,10 +796,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/consts/colors.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Home_client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="422">
+          <caret line="490" column="49" selection-start-line="490" selection-end-line="491" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="n#!!block;n#componentDidMount#0;n#Home_client#0" />
+            <element signature="n#!!block;n#handleNotification#0;n#Home_client#0" />
+            <element signature="n#!!block;n#check#0;n#Home_client#0" />
+            <element signature="n#!!block;n#logout#0;n#Home_client#0" />
+            <element signature="n#!!block;n#onFocus#0;n#Home_client#0" />
+            <element signature="n#!!block;n#renderLoader#0;n#Home_client#0" />
+            <element signature="e#20179#24423#0" />
+          </folding>
         </state>
       </provider>
     </entry>

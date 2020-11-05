@@ -485,7 +485,17 @@ class Home_client extends Component {
                     </View>
 
                     <View style={[styles.homeSection, {marginTop:10,}]}>
-                        {/*<Text style={[styles.titleText , {alignSelf:'flex-start'}]}>{ i18n.t('categories') }</Text>*/}
+                        {
+                            this.state.categories.length === 0 ?
+                                <View style={[ styles.flexCenter, styles.Width_100, { marginTop : 100 } ]}>
+                                    <Image source={require('../../assets/images/no_result.png')} style={[styles.width_150, styles.height_150 ]} resizeMode={'contain'} />
+                                    {/*<Text style={[ styles.text_red, styles.textCenter, styles.textRegular, styles.textSize_18]}>*/}
+                                    {/*    { i18n.t('ength') }*/}
+                                    {/*</Text>*/}
+                                </View>
+                                :
+                                <View/>
+                        }
                         {
                             (this.state.categories.map((category,key)=>{
                                 return(
@@ -534,7 +544,8 @@ class Home_client extends Component {
                                 );
                             }))
                         }
-                        </View>
+                    </View>
+
                 </Content>
             </Container>
 
